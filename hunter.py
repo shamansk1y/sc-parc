@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+
 import bs4
 import logging
 import csv
